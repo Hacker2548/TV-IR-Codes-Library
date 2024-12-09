@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+#
+name: Menu_enter
+type: parsed
+protocol: Samsung32
+address: 07 00 00 00
+command: 68 00 00 00
+#

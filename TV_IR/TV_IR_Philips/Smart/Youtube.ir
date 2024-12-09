@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+#
+name: Youtube
+type: parsed
+protocol: RC6
+address: 00 00 00 00
+command: 79 00 00 00
+#

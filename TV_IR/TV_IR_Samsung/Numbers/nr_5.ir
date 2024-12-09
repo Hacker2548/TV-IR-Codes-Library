@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 5
+type: parsed
+protocol: SIRC20
+address: 5A 0E 00 00
+command: 04 00 00 00
+#

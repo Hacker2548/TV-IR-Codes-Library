@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+#
+name: Up
+type: parsed
+protocol: RC6
+address: 00 00 00 00
+command: 58 00 00 00
+#

@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+#
+name: Menu
+type: parsed
+protocol: SIRC20
+address: 5A 0E 00 00
+command: 3A 00 00 00
+#

@@ -1,0 +1,9 @@
+Filetype: IR signals file
+Version: 1
+#
+name: 6
+type: parsed
+protocol: RC6
+address: 00 00 00 00
+command: 06 00 00 00
+#
