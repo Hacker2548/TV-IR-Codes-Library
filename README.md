@@ -1,2 +1,2 @@
-# TV-IR-Codes-Library
-This file contains files collection of infrared (IR) remote control codes for popular television brands. I am still expanding this file, so there will be more TVs to controll.
+# Disclaimer:
+Use these file carefully and responsibly. Incorrect usage may lead to unintended behavior. The creator of this file is not responsible for any damages or malfunctions.
